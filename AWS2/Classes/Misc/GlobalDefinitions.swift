@@ -23,6 +23,6 @@ final class GlobalDefinitions {
     
     enum Paygate {
         static let lifetime = "prep.exams.aws.lifetime"
-        static let subscription = "prep.exams.nursing.monthly"
+        static let subscription = "prep.exams.aws.monthly"
     }
 }
